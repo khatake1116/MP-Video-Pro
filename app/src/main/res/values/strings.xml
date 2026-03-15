@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">MP Video Pro</string>
+    
+    <!-- Main navigation -->
+    <string name="videos">Videos</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Player controls -->
+    <string name="play_pause">Play/Pause</string>
+    <string name="rewind">Rewind</string>
+    <string name="fast_forward">Fast Forward</string>
+    <string name="fullscreen">Fullscreen</string>
+    <string name="exit_fullscreen">Exit Fullscreen</string>
+    <string name="lock_screen">Lock Screen</string>
+    <string name="unlock_screen">Unlock Screen</string>
+    
+    <!-- Audio and subtitles -->
+    <string name="audio_track">Audio Track</string>
+    <string name="subtitles">Subtitles</string>
+    <string name="no_subtitles">No Subtitles</string>
+    <string name="subtitle_disabled">Subtitles Disabled</string>
+    
+    <!-- Playback speed -->
+    <string name="playback_speed">Playback Speed</string>
+    <string name="speed_0_25x">0.25x</string>
+    <string name="speed_0_5x">0.5x</string>
+    <string name="speed_0_75x">0.75x</string>
+    <string name="speed_1x">1x</string>
+    <string name="speed_1_25x">1.25x</string>
+    <string name="speed_1_5x">1.5x</string>
+    <string name="speed_1_75x">1.75x</string>
+    <string name="speed_2x">2x</string>
+    
+    <!-- File browser -->
+    <string name="no_videos_found">No videos found</string>
+    <string name="grant_storage_permission">Grant Storage Permission</string>
+    <string name="storage_permission_required">Storage permission is required to access video files</string>
+    <string name="sort_by">Sort By</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="duration">Duration</string>
+    <string name="size">Size</string>
+    
+    <!-- Settings -->
+    <string name="dark_mode">Dark Mode</string>
+    <string name="background_playback">Background Playback</string>
+    <string name="pip_mode">Picture-in-Picture Mode</string>
+    <string name="hardware_decoding">Hardware Decoding</string>
+    <string name="subtitle_settings">Subtitle Settings</string>
+    <string name="about">About</string>
+    
+    <!-- Gestures -->
+    <string name="brightness">Brightness</string>
+    <string name="volume">Volume</string>
+    <string name="seek">Seek</string>
+    <string name="zoom">Zoom</string>
+    
+    <!-- Time format -->
+    <string name="duration_format">%1$02d:%2$02d:%3$02d</string>
+    <string name="duration_format_short">%1$02d:%2$02d</string>
+    
+    <!-- Error messages -->
+    <string name="error_video_not_found">Video not found</string>
+    <string name="error_video_not_supported">Video format not supported</string>
+    <string name="error_playback_failed">Playback failed</string>
+    
+    <!-- Permissions -->
+    <string name="permission_denied">Permission denied</string>
+    <string name="permission_required">Permission required</string>
+</resources>
